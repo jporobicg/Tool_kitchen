@@ -11,7 +11,8 @@
 - [License](#license)
 
 ## Introduction
-Welcome to the Wackamole ("Atlantis calibration tool")! This tool is designed to simplify the calibration and setup process for the Atlantis model, allowing you to achieve optimal performance and accuracy. Whether you're a data scientist, machine learning engineer, or anyone working with the Atlantis model, this tool will be an invaluable asset in your workflow.
+Welcome to Wackamole, the Atlantis Calibration Tool! This powerful tool is specifically designed to streamline and simplify the calibration and setup process for the Atlantis model. For anyone involved in the calibration of Atlantis models, Wackamole will prove to be an invaluable asset in your workflow.
+
 
 ## Features
 - **Automated Calibration**: The tool provides automated calibration functionality, which analyzes the Atlantis model and suggests optimal settings for various parameters.
