@@ -4,9 +4,9 @@ import sys
 
 
 # Define the URL of the OPeNDAP server and the name of the variable to extract
- url = sys.argv[0]
+url = sys.argv[0]
 # url = 'temporal_input/ocean-3d-u-1-daily-mean-ym_1999_01.nc'
-#url = 'https://dapds00.nci.org.au/thredds/dodsC/cj50/access-om2/raw-output/access-om2-01/01deg_jra55v140_iaf/output164/ocean/ocean-3d-u-1-daily-mean-ym_1999_01.nc'
+# url = 'https://dapds00.nci.org.au/thredds/dodsC/cj50/access-om2/raw-output/access-om2-01/01deg_jra55v140_iaf/output164/ocean/ocean-3d-u-1-daily-mean-ym_1999_01.nc'
 var_name = sys.argv[1]
 var_name = 'u'
 # print(name_nc_out)
